@@ -7,7 +7,7 @@ abject ::
 abject ::
 ablative ::
 abrogate ::
-abstemiously ::marked by restraint especially in the eating of food or drinking of alcohol.
+abstemiously :: marked by restraint especially in the eating of food or drinking of alcohol.
 accoutrement :: an additional item of dress or equipment
 accretion :: The process of growth or increase, typically by the gradual accumulation of additional layers or matter.  
 acerbic :: (especially of a comment or style of speaking) sharp and forthright.
@@ -58,7 +58,7 @@ compendial  :: Related to a compendium that serves as a standard, such as the Br
 
 complicit: skil ::
 concomitant:: occurring simultaneously - "radiotherapy with concomitant temozolomide"
-conflate::combine (two or more sets of information, texts, ideas, etc.) into one.
+conflate :: combine (two or more sets of information, texts, ideas, etc.) into one.
 
 consistory  ::
 * (in the Roman Catholic Church) the council of cardinals, with or without the Pope.
@@ -222,7 +222,7 @@ palpable ::
 palpably ::
 panacea  ::
 panniculus ::
-panoply:: ::
+panoply :: 
 parenteral ::
 parsimonious  ::
 parsimony  ::
@@ -319,7 +319,7 @@ somatic ::
 southpaw ::
 specious ::
 splanchnic ::
-substrate :: A substance or layer that underlies something, or on which some process occurs, in particular ::
+substrate :: A substance or layer that underlies something, or on which some process occurs, in particular
 subterfuge ::
 sullen :: 1. Bad-tempered and sulky; gloomy. 2. (esp. of water) Slow-moving: "rivers in sullen flood".
 supernatant  ::
