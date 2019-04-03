@@ -310,7 +310,7 @@ serendipity ::
 series ::
 shibboleth ::
 sine qua non  ::
-sinuous - having curves in alternate directions; meandering - french sinueux
+sinuous :: having curves in alternate directions; meandering - french sinueux
 skittish ::
 sobriety ::
 sobriquet: a person's nickname ::
