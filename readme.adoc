@@ -22,7 +22,7 @@ aphorism ::
 aplomb ::
 apoplectic - Overcome with anger; extremely indignant. ::
 arbitrage ::
-arcane::understood by few; mysterious or secret.
+arcane :: understood by few; mysterious or secret.
 argot - The jargon or slang of a particular group or class: "teenage argot". ::
 arraigned ::
 attrition ::
