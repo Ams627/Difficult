@@ -9,7 +9,7 @@ ablative ::
 abrogate ::
 abstemiously :: marked by restraint especially in the eating of food or drinking of alcohol.
 accoutrement :: an additional item of dress or equipment
-accretion :: The process of growth or increase, typically by the gradual accumulation of additional layers or matter.  
+accretion :: The process of growth or increase, typically by the gradual accumulation of additional layers or matter.
 acerbic :: (especially of a comment or style of speaking) sharp and forthright.
 acolyte ::
 affable :: friendly, good-natured, or easy to talk to
@@ -35,7 +35,7 @@ boorish  :: rough and bad-mannered; coarse. "boorish behaviour"
 brackish ::
 brevet  :: verb: confer a brevet rank on.
 broadside :: tirade
-bucolic :: relating to the pleasant aspects of the countryside and country life. 
+bucolic :: relating to the pleasant aspects of the countryside and country life.
 "the church is lovely for its bucolic setting"
 cachet  :: the state of being respected or admired; prestige. "no other shipping company had quite the cachet of Cunard"
 calumny :: the making of false and defamatory statements about someone in order to damage their reputation; slander.
@@ -49,7 +49,7 @@ circumspect  ::
 clarion call ::
 cogent  ::
 cohort ::
-compendial  :: Related to a compendium that serves as a standard, such as the British Pharmacopoeia, or the US Pharmacopeia. 
+compendial  :: Related to a compendium that serves as a standard, such as the British Pharmacopoeia, or the US Pharmacopeia.
 +
 "_One can consult compendial monographs for further information._"
 +
@@ -74,11 +74,12 @@ curs :: an aggressive or unkempt dog, especially a mongrel. INFORMAL a contempti
 dais :: a low platform for a lectern or throne.
 dank :: unpleasantly damp and cold. "huge dank caverns"
 deleterious :: causing harm or damage. "divorce is assumed to have deleterious effects on children"
+deracinate :: to pull out by the roots, uproot. To displace from one's native or accustomed environment.
 detract ::
 dietetics ::
 diffidence  :: modesty or shyness resulting from a lack of self-confidence. "I say this with some diffidence"
 diffident ::
-disavow  ::
+disavow  :: To disclaim knowledge of, responsibility for, or association with.
 disingenuous :: not straightforward or candid; giving a false appearance of frankness;fake or deceptive
 disparaging ::
 disparate ::
@@ -132,6 +133,7 @@ fungible :: (law) (of goods contracted for without an individual specimen being 
 garrulous  ::
 garrulous: excessively talkative in a rambling, roundabout manner, especially about trivial matters.
 germane :: relevant to a subject under consideration. "that is not germane to our theme"
+guileless :: 
 hapless :: unfortunate. "the hapless victims of the disaster".
 harridan :: a strict, bossy, or belligerent old woman
 hedonism ::
@@ -161,8 +163,8 @@ indolent ::
 innervate  ::
 innervates ::
 insidious ::
-insouciance :: casual lack of concern 
-insufflation  :: 
+insouciance :: casual lack of concern
+insufflation  ::
 intimate (verb) ::
 intractable  ::
 intransigent :: unwilling or refusing to change one's views or to agree about something.
@@ -213,6 +215,7 @@ obduracy :: adamance, resoluteness by virtue of being unyielding and inflexible
 obtuse ::
 obverse ::
 oche :: The oche, also the throw line or toe line, in the game of darts is the line behind which the throwing player must stand.
+opine :: 
 opprobium ::
 organoleptic  ::
 ostensibly ::
@@ -222,7 +225,7 @@ palpable ::
 palpably ::
 panacea  ::
 panniculus ::
-panoply :: 
+panoply ::
 parenteral ::
 parsimonious  ::
 parsimony  ::
@@ -233,7 +236,7 @@ perdition ::
 perdurance  ::
 peremptory ::
 perfidious :: Deceitful and untrustworthy.
-perfunctory :: Carried out with a minimum of effort or reflection. 
+perfunctory :: Carried out with a minimum of effort or reflection.
 perfunctory ::
 perfusion  ::
 perjorative ::
@@ -328,6 +331,7 @@ surly ::
 surmise ::
 surreptitious ::
 sycophantic ::
+syncretism :: the combination of different forms of belief or practice. the fusion of two or more originally different inflectional forms
 tacit ::
 taciturn ::
 taciturn ::
@@ -361,5 +365,5 @@ vituperative :: bitter and abusive. "a vituperative outburst"
 volubly :: characterized by a ready and continuous flow of words; fluent; glib; talkative:
 waif :: a person, especially a child, who has no home or friends.
 wastrel :: a waif; abandoned child.
-whimsical :: 
+whimsical ::
 whorl :: v. spiral or move in a twisted and convoluted fashion. n. a pattern of spirals or concentric circles.
