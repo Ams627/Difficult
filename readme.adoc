@@ -144,8 +144,6 @@ hubris ::
 hubristic ::
 hypothecated ::
 idempotent:   ::
-ignominious  ::
-ignominious ::
 ignominious ::
 ignominy ::
 implacable:: unable to be appeased or placated
@@ -181,24 +179,31 @@ languid ::
 legation :: a diplomatic minister, especially one below the rank of ambassador, and their staff
 libidinal  ::
 libidinous ::
+lodestar :: 
+. a star that is used to guide the course of a ship, especially the Pole Star. +
+			synonyms:	guide, guiding star, guiding light, role model, model, luminary, exemplar, ideal, inspiration; More
+. a person or thing that serves as an inspiration or guide. +
+"he was her intellectual lodestar"
 louche :: disreputable or sordid in a rakish or appealing way
 lubricious  ::
+. offensively displaying or intended to arouse sexual desire.
+_He probed the ladies for every lubricious detail of their interactions_
+. smooth and slippery with oil or a similar substance.
 lubricity  ::
-lugubrious ::
-lugubrious ::
-marginalia ::
-maven ::
-mawkish  ::
-mawkish ::
+lugubrious :: looking or sounding sad and dismal.
+_His face looked even more lugubrious than usual_
+marginalia :: are marks made in the margins of a book or other document. Synonym: apostils
+maven :: (also mavin) a trusted expert in a particular field, who seeks to pass timely and relevant
+knowledge on to others in the respective field.
 mawkish :: characterized by sickly sentimentality; weakly emotional; maudlin. having a mildly sickening flavor; slightly nauseating.
-melodramatic ::
-mendacious ::
-mendacious ::
-mercurial ::
-milieu ::
-milieu ::
-mollify ::
-moot ::
+melodrama :: a sensational dramatic piece with exaggerated characters and exciting events intended to appeal to the emotions.
+melodramatic :: relating to melodrama
+mendacious :: not telling the truth; lying. _"mendacious propaganda"_
+mercurial :: subject to sudden or unpredictable changes of mood or mind. _"his mercurial temperament"_
+milieu :: a person's social environment. "Gregory came from the same aristocratic milieu as Sidoniu
+mollify :: appease the anger or anxiety of (someone). _"nature reserves were set up around the power stations to mollify local conservationists"_
+moot :: subject to debate, dispute, or uncertainty.
+_"whether the temperature rise was mainly due to the greenhouse effect was a moot point"_
 moribund ::
 morose :: sullen and ill-tempered
 mulish ::
