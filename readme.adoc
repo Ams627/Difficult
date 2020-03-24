@@ -1,11 +1,16 @@
-Brinksmanship ::
+Brinksmanship :: the art or practice of pursuing a dangerous policy to the limits of safety before stopping, especially in politics.
 Denotes ::
-Epicene ::
-Manichean  ::
+Epicene :: having characteristics of both sexes or no characteristics of either sex; of indeterminate sex.
+Manichean  :: relating to Manichaeism, relating to dualism or conflict between opposites; dualistic.
+Manichaeism :: a dualistic religious system with Christian, Gnostic, and pagan elements, founded in Persia in the 3rd century by Manes ( c. 216– c. 276) and based on a supposed primeval conflict between light and darkness. It was widespread in the Roman Empire and in Asia, and survived in eastern Turkestan (Xinjiang) until the 13th century.
 Pragmatically ::
-abject ::
-abject ::
-ablative ::
+abject :: (of something bad) experienced or present to the maximum degree. (of a person or their behaviour) completely without pride or dignity; self-abasing."an abject apology"
+ablative :: +
+. denoting a case (especially in Latin) of nouns and pronouns and words in grammatical agreement
+with them indicating an agent, instrument, or source, expressed by ‘by’, ‘with’, or ‘from’ in English
+. (of surgical treatment) involving ablation.
+. relating to or subject to ablation through melting or evaporation.
+
 abrogate ::
 abstemiously :: marked by restraint especially in the eating of food or drinking of alcohol.
 accoutrement :: an additional item of dress or equipment
@@ -93,7 +98,6 @@ efferent ::
 egalitarian ::
 egalitarianism  ::
 egregious  ::
-egregious ::
 elide (elision): omission ::
 elliptic ::
 enigmatic ::
@@ -175,6 +179,7 @@ labile ::
 lackadaisical ::
 laconic :: concise or terse, brief and to the point, laconically
 languid ::
+lascivious ::
 legation :: a diplomatic minister, especially one below the rank of ambassador, and their staff
 libidinal  ::
 libidinous ::
@@ -351,6 +356,7 @@ totemic ::
 traduce :: speak badly of or tell lies about (someone) so as to damage their reputation.
 triage :: The action of sorting according to quality.
 trifecta  ::
+truculent ::
 ubiquitous ::
 unassailable  ::
 unconscionable ::
