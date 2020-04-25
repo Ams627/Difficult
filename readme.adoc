@@ -227,7 +227,7 @@ oche :: The oche, also the throw line or toe line, in the game of darts is the l
 opine :: 
 opprobium ::
 organoleptic  ::
-ostensibly ::
+ostensibly :: as appears or is stated to be true, though not necessarily so; apparently.
 ostler ::
 palliate  ::
 palpable ::
