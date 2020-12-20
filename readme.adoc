@@ -77,7 +77,7 @@ consumptive :: 1. ARCHAIC affected with a wasting disease, especially pulmonary 
 craven  :: Characterized by abject fear; cowardly.
 curs :: an aggressive or unkempt dog, especially a mongrel. INFORMAL a contemptible man.
 dais :: a low platform for a lectern or throne.
-dank :: unpleasantly damp and cold. "huge dank caverns"
+dank :: Unpleasantly damp and cold. "huge dank caverns"
 deleterious :: causing harm or damage. "divorce is assumed to have deleterious effects on children"
 deracinate :: to pull out by the roots, uproot. To displace from one's native or accustomed environment.
 detract ::
@@ -137,23 +137,24 @@ fungible :: (law) (of goods contracted for without an individual specimen being 
 garrulous  ::
 garrulous: excessively talkative in a rambling, roundabout manner, especially about trivial matters.
 germane :: relevant to a subject under consideration. "that is not germane to our theme"
-guileless :: 
+glut:: a supply of something greater than can be sold or is needed or wanted
+guile:: deceitful cunning; clever but sometimes dishonest behaviour
+guileless :: free from guile; honest; sincere.
 hapless :: unfortunate. "the hapless victims of the disaster".
 harridan :: a strict, bossy, or belligerent old woman
 hedonism ::
-hegemony ::
+hegemony :: leadership or dominance, especially by one state or social group over others
 hiatus ::
-hubris ::
+hubris :: excessive pride or self-confidence
 hubristic ::
 hypothecated ::
 idempotent:   ::
-ignominious ::
-ignominy ::
+ignominious :: deserving or causing public disgrace or shame.
+ignominy :: public shame or disgrace
 implacable:: unable to be appeased or placated
-impunity  ::
 impunity :: exemption from punishment or freedom from the injurious consequences of an action
 inanition :: Lack of mental or spiritual vigor and enthusiasm
-inappetance ::
+inappetance :: lack of appetite or desire
 inception ::
 inchoate :: just begun and so not fully formed or developed; rudimentary
 incongruous ::
@@ -309,7 +310,6 @@ salutary ::
 sanctimonious ::
 sardonic ::
 schadenfreude ::
-schadenfreude ::
 scurrilous ::
 seditious :: inciting or causing people to rebel against the authority of a state or monarch.
 seminal ::
@@ -323,11 +323,12 @@ series ::
 shibboleth ::
 sine qua non  ::
 sinuous :: having curves in alternate directions; meandering - french sinueux
-skittish ::
+skittish :: 
 sobriety ::
 sobriquet: a person's nickname ::
 solecisms  ::
 somatic ::
+sotto voce :: (literally "under the voice") - intentionally lowering the volume of one's voice for emphasis.
 southpaw ::
 specious ::
 splanchnic ::
