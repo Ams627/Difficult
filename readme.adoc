@@ -286,54 +286,47 @@ pseudonymous ::
 pugilistic ::
 pugnacious  ::
 purported  ::
-purportedly ::
-putative  ::
-putative ::
-pyrrhic  ::
+purportedly :: as appears or is stated to be true, though not necessarily so; allegedly
+putative :: generally considered or reputed to be. "the putative author of the book"
+pyrrhic  :: (of a victory) won at too great a cost to have been worthwhile for the victor.
 rankle :: to cause keen irritation or bitter resentment in
-rankles ::
+rankles :: (of a comment or fact) cause continuing annoyance or resentment.
 rapacious :: aggressively greedy or grasping
-recidivist ::
-recidivist ::
-recidivist ::
 recidivist ::
 recondite :: little known abstruse
 redactional ::
-rejoinder  ::
-restive ::
-restive ::
-ribald ::
-risible ::
-salacious ::
-salutary ::
-salutary ::
-sanctimonious ::
-sardonic ::
-schadenfreude ::
-scurrilous ::
+rejoinder  :: a reply, especially a sharp or witty one.
+restive :: unable to remain still, silent, or submissive, especially because of boredom or dissatisfaction. "the crowd had been waiting for hours and many were becoming restive"
+ribald :: referring to sexual matters in an amusingly coarse or irreverent way.
+risible :: provoking laughter through being ludicrous.
+salacious :: having or conveying undue or inappropriate interest in sexual matters.
+salutary :: (especially with reference to something unwelcome or unpleasant) producing good effects; beneficial.
+sanctimonious :: making a show of being morally superior to other people. "what happened to all the sanctimonious talk about putting his family first?"
+sardonic :: grimly mocking or cynical. "Jim attempted a sardonic smile"
+schadenfreude :: pleasure derived by someone from another person's misfortune.
+scurrilous :: making or spreading scandalous claims about someone with the intention of damaging their reputation. "a scurrilous attack on his integrity"
 seditious :: inciting or causing people to rebel against the authority of a state or monarch.
 seminal ::
-senescent  ::
+senescent  :: growing old; aging
 sententiously  ::
-sequester ::
+sequester :: isolate or hide away. "she is sequestered in deepest Dorset"
 sequestration - The action of taking legal possession of assets until a debt has been paid or other claims have been met
-serendipity ::
-serendipity ::
-series ::
-shibboleth ::
-sine qua non  ::
+serendipity :: an unplanned fortunate discovery. Serendipity is a common occurrence throughout the history of product invention and scientific discovery.
+shibboleth :: any custom or tradition, usually a choice of phrasing or even a single word, that distinguishes one group of people from another
+sine qua non  :: an essential condition; a thing that is absolutely necessary.
 sinuous :: having curves in alternate directions; meandering - french sinueux
-skittish :: 
+skittish :: (of an animal, especially a horse) nervous or excitable; easily scared.
 sobriety ::
 sobriquet: a person's nickname ::
-solecisms  ::
-somatic ::
+solecism  :: a grammatical mistake in speech or writing; a breach of good manners; an instance of incorrect behaviour;
+somatic :: relating to the body, especially as distinct from the mind.
 sotto voce :: (literally "under the voice") - intentionally lowering the volume of one's voice for emphasis.
-southpaw ::
-specious ::
-splanchnic ::
+southpaw :: a boxing stance
+specious :: superficially plausible, but actually wrong: "a specious argument"
+splanchnic :: relating to the viscera or internal organs, especially those of the abdomen
 substrate :: A substance or layer that underlies something, or on which some process occurs, in particular
-subterfuge ::
+subterfuge :: deceit used in order to achieve one's goal
+suffrage :: the right to vote in elections
 sullen :: 1. Bad-tempered and sulky; gloomy. 2. (esp. of water) Slow-moving: "rivers in sullen flood".
 supernatant  ::
 supine ::
@@ -343,7 +336,6 @@ surreptitious ::
 sycophantic ::
 syncretism :: the combination of different forms of belief or practice. the fusion of two or more originally different inflectional forms
 tacit ::
-taciturn ::
 taciturn ::
 tantamount -  ::
 teeming  ::
